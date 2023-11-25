@@ -2,7 +2,7 @@
 
 ## Install
 
-    https://github.com/enamsaraev/burger_no_peaceful.git
+    git clone https://github.com/enamsaraev/burger_no_peaceful.git
 
 
 ## Run the app
