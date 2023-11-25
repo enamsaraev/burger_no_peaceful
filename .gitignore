@@ -1,0 +1,14 @@
+*.log
+*.pot
+*.pyc
+__pycache__
+.DS_store
+
+.vscode/* 
+!.vscode/settings.json 
+!.vscode/tasks.json 
+!.vscode/launch.json 
+!.vscode/extensions.json 
+.history
+
+.env
